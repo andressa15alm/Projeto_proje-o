@@ -10,6 +10,8 @@ Projeto tem o objetivo de testar as posibilidades de criação artistica com o h
 
 ## Layout com interação
 ![Com Int ](https://github.com/andressa15alm/Projeto_proje-o/blob/main/img/comint.png)
+![Com Int ](https://github.com/andressa15alm/Projeto_proje-o/blob/main/img/projecao.gif)
+
 
 # Tecnologias utilizadas
 ## Front end
